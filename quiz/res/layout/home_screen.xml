@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/splash_bg">
+	
+	<LinearLayout
+		android:orientation="vertical"
+		android:layout_height="wrap_content" 
+		android:layout_width="fill_parent"
+		android:layout_centerInParent="true">
+		<ScrollView
+			android:layout_height="wrap_content" 
+			android:layout_width="fill_parent"
+			android:paddingLeft="5dp"
+		    android:paddingRight="5dp" >
+
+            <TextView android:id="@+id/txtPrompt"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+		</ScrollView>
+	</LinearLayout>
+	<Button android:id="@+id/btnReady"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true"
+		android:layout_margin="20dip"
+		android:background="@drawable/button"
+		android:textColor="@color/white"
+		android:textSize="@dimen/text_size_large"
+		android:paddingLeft="20dp"
+		android:paddingRight="20dp"
+		android:paddingTop="10dp"
+		android:paddingBottom="10dp"
+		android:text="@string/ready" />
+</RelativeLayout>    

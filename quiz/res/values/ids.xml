@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_id">222847776752</string>
+
+    <string name="achievement_kazap">CgkI8O-Mlr4GEAIQAg</string>
+    <string name="achievement_moscal">CgkI8O-Mlr4GEAIQAQ</string>
+    <string name="achievement_hohol">CgkI8O-Mlr4GEAIQAw</string>
+    <string name="achievement_banderivec">CgkI8O-Mlr4GEAIQBA</string>
+    <string name="achievement_patriot">CgkI8O-Mlr4GEAIQBQ</string>
+
+    <string name="leaderboard_patriot">CgkI8O-Mlr4GEAIQBg</string>
+</resources>

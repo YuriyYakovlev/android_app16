@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Я люблю Україну</string>
+	<string name="web_link">+ Я люблю Україну</string>
+    <string name="greeting">ВIТАЄМО, %s \n\n</string>
+    <string name="interview_prompt">ВАМ БУДЕ НАДАНО 30 ЗАПИТАНЬ.\n\nОДНЕ ЗАПИТАННЯ МОЖЕ МАТИ
+        БIЛЬШЕ, НIЖ ОДНУ ПРАВИЛЬНУ ВIДПОВIДЬ.\n\nЧАС ОБМЕЖЕНИЙ 30 ХВИЛИНАМИ.\n\nВАШЕ ПОПЕРЕДНЕ ДОСЯГНЕННЯ %s
+        %%.\n\nВИ ГОТОВI РОЗПОЧАТИ?</string>
+	<string name="ready">ТАК</string> 
+	<string name="next">ДАЛI</string>
+	<string name="separator">∫</string>
+	<string name="ok">ДАЛI</string>
+	<string name="interview_results">РЕЗУЛЬТАТ ТЕСТУВАННЯ</string>
+	<string name="results_good">ЧУДОВО.\n\nВАШЕ ДОСЯГНЕННЯ %s %%.\n\n</string>
+	<string name="results_bad">НЕ ДУЖЕ ДОБРЕ.\n\nВАШЕ ДОСЯГНЕННЯ %s %%.\n\n</string>
+	<string name="wrong">НЕ ВІРНО</string>
+
+    <string name="signing_in">Заходимо до Google</string>
+    <string name="achievements_not_available">Зайдіть в Google для перегляду балів.</string>
+    <string name="leaderboards_not_available">Зайдіть в Google для перегляду рейтингу.</string>
+    <string name="achievement_kazap_toast_text">Ваше досягнення - Кацап</string>
+    <string name="achievement_moscal_toast_text">Ваше досягнення - Москаль</string>
+    <string name="achievement_hohol_toast_text">Ваше досягнення - Хохол</string>
+    <string name="achievement_banderivec_toast_text">Ваше досягнення - Бандерівець</string>
+    <string name="achievement_patriot_toast_text">Ваше досягнення - Патріот</string>
+    <string name="achievement">Досягнення</string>
+    <string name="see_your_progress">Ваш прогрес:</string>
+    <string name="leaderboards">Рейтинг</string>
+    <string name="sign_in_why">Зайдіть в Google, щоб поділитися вашими досягненнями с друзями.</string>
+    <string name="you_are_signed_in">Ви не зайшли в Google.</string>
+    <string name="sign_in_to_upload_this_score">Зайдіть в Google для завантаження досягнень, збереження ваших
+        досягнень та перегляду результатів ваших друзів.</string>
+
+    <string name="days_ago">днів тому</string>
+    <string name="years_ago">років тому</string>
+    <string name="today">Сьогодні</string>
+    <string name="just_another_day">ще один чудовий день</string>
+
+</resources>

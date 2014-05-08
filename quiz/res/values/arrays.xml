@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Тест</item>
+        <item>Конституція</item>
+        <item>Історія</item>
+        <item>Діячі</item>
+    </string-array>
+    
+</resources>

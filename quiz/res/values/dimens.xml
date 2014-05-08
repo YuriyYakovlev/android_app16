@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="h0">78sp</dimen>
+    <dimen name="h1">58sp</dimen>
+    <dimen name="h2">48sp</dimen>
+    <dimen name="h3">38sp</dimen>
+    
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">30sp</dimen>
+    
+    <dimen name="title_height">45dip</dimen>
+        
+    <dimen name="text_size_tab">10sp</dimen>
+    <dimen name="text_size_products_title">26sp</dimen>
+    <dimen name="text_size_result">58sp</dimen>
+    <dimen name="text_size_joker">48sp</dimen>
+    <dimen name="text_size_timer">26sp</dimen>
+    <dimen name="text_size_game_over">48sp</dimen>
+</resources>
